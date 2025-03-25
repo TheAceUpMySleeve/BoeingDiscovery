@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Boeing Discovery </title>
+</head>
+<body>
+
+
+<style>
+
+
+</style>
+
+
+<h2>Our Executive Members</h2>
+<p style="font-size:25px"> <em> Here at Boeing have an incredible team on our executive board who are constantly working towawrds improving this company as a whole.   </em> </p>
+
+<table>
+<!-- Top row -->
+ <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+
+  <!--2nd Row-->
+ <tr>
+    <td> Kelly Ortberg </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+
+<!--3rd row-->
+  <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+
+
+
+
+</table>
+
+
+
+
+
+
+</html>
