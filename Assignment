@@ -13,7 +13,7 @@
 
 
 <h2>Our Executive Members</h2>
-<p style="font-size:25px"> <em> Here at Boeing have an incredible team on our executive board who are constantly working towawrds improving this company as a whole.   </em> </p>
+<p style="font-size:15px" style="width:300"> <em> Here at Boeing have an incredible team on our executive board who are constantly working towawrds improving this company as a whole.   </em> </p>
 
 <table>
 <!-- Top row -->
@@ -27,20 +27,26 @@
 
   <!--2nd Row-->
  <tr>
-    <td> Kelly Ortberg </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td style="font-size:20> Kelly Ortberg </td>
+    <td style="font-size:20> Brian West </td>
+    <td style="font-size:20> Stephanie Pope </td>
+    <td style="font-size:20> Uma Amuluru </td>
+    <td style="font-size:20> Dana Deasy </td>
   </tr>
 
 <!--3rd row-->
   <tr>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td> President and Chief Executive Officer </td>
+    <td> Chief Financial Officer
+Executive Vice President, Finance </td>
+    <td> Executive Vice President
+President and Chief Executive Officer, Boeing Commercial Airplanes </td>
+    <td> Chief Human Resources Officer
+Executive Vice President, Human Resources </td>
+    <td> Chief Information Digital Officer,
+Senior Vice President,
+Information Technology & Data Analytics
+The Boeing Company </td>
   </tr>
 
 
